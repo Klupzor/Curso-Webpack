@@ -1,0 +1,25 @@
+{
+  "name": "Curso-webpack",
+  "version": "1.0.0",
+  "description": "Curso de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klupzor/Curso-Webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Klupzor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klupzor/Curso-Webpack/issues"
+  },
+  "homepage": "https://github.com/Klupzor/Curso-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1"
+  }
+}
